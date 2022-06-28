@@ -4,13 +4,12 @@
 
 <img src="preview.png" alt="Rice Showcase" align="right" width="400px">
 
-|  INFORMATION  | LINKS |
-| -------------- | --- |
-| Distro | [`Endeavour OS`](https://endeavouros.com/) |
-| Window Manager | [`BSPWM`](https://github.com/baskerville/bspwm) |
-| Terminal | [`Alacritty`](https://github.com/alacritty/alacritty) |
-| Shell | [`zsh`](https://www.zsh.org) |
-| Panel | [`Polybar`](https://github.com/polybar/polybar) |
-| Compositor | [`picom-ibhagwan-git`](https://github.com/ibhagwan/picom-ibhagwan-git) |
-| Application Launcher | [`rofi`](https://github.com/davatorium/rofi) |
-| Application Menu |  [`jgmenu`](https://github.com/johanmalm/jgmenu) |
+- **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
+- **Terminal:** [alacrittyl](https://github.com/alacritty/alacritty)
+- **Shell:** [zsh](https://www.zsh.org/)
+- **Panel:** [polybar](https://github.com/polybar/polybar)
+- **Compositor:** [picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git)
+- **Notification Manager:** [dunst](https://github.com/dunst-project/dunst)
+- **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
+- **Application Menu:** [jgmenu](https://github.com/johanmalm/jgmenu)
+
