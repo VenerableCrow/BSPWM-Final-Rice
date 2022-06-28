@@ -2,7 +2,7 @@
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
-<img src="preview.png" alt="Rice Showcase" align="right" width="500px">
+<img src="preview.png" alt="Rice Showcase" align="right" width="400px">
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Terminal:** [alacrittyl](https://github.com/alacritty/alacritty)
