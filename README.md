@@ -17,3 +17,10 @@
 - **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
 - **Application Menu:** [jgmenu](https://github.com/johanmalm/jgmenu)
 
+## ⭐ Credits
+- jgmenu was created by [TheRealKizu](https://www.reddit.com/r/unixporn/comments/vlqhzb/bspwm_comfy_rocky_beach/)
+- Wallpaper was created using [heropatterns](https://heropatterns.com/)
+- Rofi configs was taken from [archcraft os](https://archcraft.io/flavors.html)
+- Polybar modules was taken from [adi1090x](https://github.com/adi1090x/polybar-themes)
+
+<h2></h2>
