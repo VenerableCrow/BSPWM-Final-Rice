@@ -2,6 +2,8 @@
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
+<img src="preview.png" alt="Rice Showcase" align="right" width="400px">
+
 |  INFORMATION  | LINKS |
 | -------------- | --- |
 | Distro | [`Endeavour OS`](https://endeavouros.com/) |
