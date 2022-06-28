@@ -7,7 +7,7 @@
 | Distro | [`Endeavour OS`](https://endeavouros.com/) |
 | Window Manager | [`BSPWM`](https://github.com/baskerville/bspwm) |
 | Terminal | [`Alacritty`](https://github.com/alacritty/alacritty) |
-| Shell | [`zsh`] |
+| Shell | [`zsh`](https://www.zsh.org) |
 | Panel | [`Polybar`](https://github.com/polybar/polybar) |
 | Compositor | [`picom-ibhagwan-git`](https://github.com/ibhagwan/picom-ibhagwan-git) |
 | Application Launcher | [`rofi`](https://github.com/davatorium/rofi) |
