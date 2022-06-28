@@ -6,6 +6,7 @@
 
 <img src="preview.png" alt="Rice Showcase" align="right" width="400px">
 
+- **Operating System:** [EndeavourOS](https://endeavouros.com/)
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Terminal:** [alacritty](https://github.com/alacritty/alacritty)
 - **Shell:** [zsh](https://www.zsh.org/)
