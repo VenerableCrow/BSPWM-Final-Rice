@@ -2,7 +2,7 @@
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
-|  INFORMATION  |
+|  INFORMATION  | LINKS |
 | -------------- | --- |
 | Distro | [`Endeavour OS`](https://endeavouros.com/) |
 | Window Manager | [`BSPWM`](https://github.com/baskerville/bspwm) |
