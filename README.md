@@ -2,6 +2,8 @@
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
+## :herb: <samp>INFORMATION</samp>
+
 <img src="preview.png" alt="Rice Showcase" align="right" width="400px">
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
