@@ -9,6 +9,7 @@
 - **Operating System:** [EndeavourOS](https://endeavouros.com/)
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Terminal:** [alacritty](https://github.com/alacritty/alacritty)
+- **File Manager:** [Thunar](https://docs.xfce.org/xfce/thunar/start)
 - **Shell:** [zsh](https://www.zsh.org/)
 - **Panel:** [polybar](https://github.com/polybar/polybar)
 - **Compositor:** [picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git)
