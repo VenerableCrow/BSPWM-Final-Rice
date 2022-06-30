@@ -15,6 +15,7 @@
 - **Compositor:** [picom-ibhagwan-git](https://github.com/ibhagwan/picom-ibhagwan-git)
 - **Notification Manager:** [dunst](https://github.com/dunst-project/dunst)
 - **GTK Theme:** [Everblush GTK](https://github.com/Everblush/gtk)
+- **VScode Theme:** [Everblush](https://github.com/Everblush/vscode)
 - **Icon Theme:** [Tela Grey](https://www.xfce-look.org/p/1279924/)
 - **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
 - **Application Menu:** [jgmenu](https://github.com/johanmalm/jgmenu)
